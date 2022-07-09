@@ -1,0 +1,14 @@
+# douglas-user 5.1.1 LVY48F 50.6.5.9_user_659662020 release-keys
+- manufacturer: amazon
+- platform: mt8163
+- codename: douglas
+- flavor: douglas-user
+- release: 5.1.1
+- id: LVY48F
+- incremental: 50.6.5.9_user_659662020
+- tags: release-keys
+- fingerprint: Amazon/douglas/douglas:5.1.1/LVY48F/50.6.5.9_user_659662020:user/release-keys
+- is_ab: false
+- brand: Amazon
+- branch: douglas-user-5.1.1-LVY48F-50.6.5.9_user_659662020-release-keys
+- repo: amazon_douglas_dump
